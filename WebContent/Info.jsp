@@ -15,7 +15,7 @@
   <header id="main_header">
     <div id="logo">
       <a id="logo_link" href="Main.jsp">
-        <img class="logo" src="image/Logo.png">
+        <img class="logo" src="images/Logo.png">
       </a>
     </div>
     <nav id="nav_main">
@@ -43,7 +43,7 @@
 
   <h2>Inha Hotel</h2>
   <hr style="margin: auto; width: 60%; height: 5px; background-color: black">
-  <img id="info_img" src="image/Info.PNG">
+  <img id="info_img" src="images/Info.PNG">
   <div id="content">
     <div id="box">
       <div class = "box_2">
