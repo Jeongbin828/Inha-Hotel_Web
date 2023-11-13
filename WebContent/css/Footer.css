@@ -1,0 +1,55 @@
+@charset "EUC-KR";
+
+#main_footer{
+  height: 350px;
+}
+
+#main_footer > #footer_top{
+  height: 175px;
+  background-color: rgb(235, 228, 207);
+}
+
+#main_footer > #footer_top > #hotel_title{
+  position: relative;
+  font-size: 35px;
+  display: inline-block;
+  top: 50px;
+  right: 100px;
+}
+
+#main_footer > #footer_top > #link_info{
+  height: 175px;
+  font-size: 30px;
+  display: inline-block;
+}
+
+#main_footer > #footer_top > #link_info > #contact_info{
+  display: inline-block;
+  position: relative;
+  top: 50px;
+}
+
+#main_footer > #footer_top > #link_info > #introduction{
+  display: inline-block;
+  position: relative;
+  top: 50px;
+  left: 50px
+}
+
+#main_footer > #footer_top > #link_info > #introduction a{
+  color: black;
+}
+
+#main_footer > #footer_bottom{
+  height: 175px;
+  position: relative;
+  font-size: 13px;
+}
+
+#main_footer > #footer_bottom > #bottom_nav{
+  height: 100px;
+}
+
+#main_footer > #footer_bottom > #bottom_nav > #top_menu li{
+  margin: 20px 20px 20px 20px;
+}
