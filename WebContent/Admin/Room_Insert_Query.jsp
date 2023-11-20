@@ -20,7 +20,7 @@
     stmt.executeUpdate("insert into room(rmName, rmSize, maxP, price) values('"+rmName+"', "+rmSize+", "+maxP+", "+price+")");
 %>
   <script>
-    alert("객실이 등록되었습니다.");
+    alert("객실 정보가 등록되었습니다.");
     document.location.href="Room_List_UI.jsp";
   </script>
 <%	
