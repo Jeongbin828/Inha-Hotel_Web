@@ -57,7 +57,7 @@
 
   <table>
     <tr>
-      <th>객실 번호</th><th>객실명</th><th>객실 크기(㎡)</th><th>최대 인</th><th>1박 가격</th><th>수정</th><th>삭제</th>
+      <th>객실 번호</th><th>객실명</th><th>객실 크기(㎡)</th><th>최대 인원</th><th>1박 가격</th><th>수정</th><th>삭제</th>
     </tr>
 <%
   try{
