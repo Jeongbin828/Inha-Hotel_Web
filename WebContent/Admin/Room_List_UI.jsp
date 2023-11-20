@@ -67,11 +67,11 @@
     ResultSet rs = stmt.executeQuery("select * from room");
 
     while(rs.next()){
-      int rmId = rs.getInt("rmId");				// 객실 번호
+      int rmId = rs.getInt("rmId");             // 객실 번호
       String rmName = rs.getString("rmName");		// 객실
-      int rmSize = rs.getInt("rmSize");			// 객실 크기(㎡)
-      int maxP = rs.getInt("maxP");				// 최대 인원
-      int price = rs.getInt("price");				// 1박 가격
+      int rmSize = rs.getInt("rmSize");         // 객실 크기(㎡)
+      int maxP = rs.getInt("maxP");             // 최대 인원
+      int price = rs.getInt("price");           // 1박 가격
 			
       out.println("<tr>");
       out.println("<td>"+rmId+"</td>");
