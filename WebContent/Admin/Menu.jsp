@@ -10,7 +10,7 @@
   }
 
   a:hover{
-  text-decoration: underline;
+    text-decoration: underline;
   }
   </style>
   <title>Inha Hotel Admin</title>
