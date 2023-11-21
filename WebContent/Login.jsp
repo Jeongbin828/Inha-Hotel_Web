@@ -4,27 +4,27 @@
 <head>
   <meta charset="UTF-8">
   <style>
-  * {
+  *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
   }
   
-  li {
+  li{
     list-style-type: none;
   }
   
-  .box {
+  .box{
     width: 1000px;
     margin: 0 auto;
   }
   
-  .button {
+  .button{
     text-decoration: none;
     color: black;
   }
   
-  #col {
+  #col{
     width: 80px;
   }
   
@@ -36,19 +36,19 @@
     background-color: rgb(235, 228, 207);
   }
   
-  .ip {
+  .ip{
     width: 200px;
     height: 25px;
     font-size: 20px;
     margin-bottom: 5px;
   }
   
-  .text {
+  .text{
     text-align: center;
     margin-bottom: 10px;
   }
   
-  #login {
+  #login{
     padding: 18px 23px;
     margin-left: 5px;
     background-color: black;
